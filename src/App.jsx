@@ -7,7 +7,7 @@ import Header from "./components/Header";
 import Footer from "./components/Footer";
 function App() {
   return (
-    <Router>
+    <Router basename="/Day_33">
       <>
         <Header />
         <main>
